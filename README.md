@@ -108,15 +108,3 @@ This project intentionally follows a strict rule:
 > AI-generated content can improve wording and structure, but it cannot invent qualifications, certifications, achievements, companies, or skills.
 
 Every recommendation is validated against the user’s documented data before being accepted.
-
-## Viva-ready explanation
-
-The project demonstrates a practical GenAI system for resume optimization:
-
-- it uses LLM generation for summary and bullet drafting
-- it uses structured data to keep the resume consistent and explainable
-- it applies keyword and semantic matching for job relevance
-- it uses ATS checks and validation guardrails to reduce hallucination
-- it provides a simple but realistic product workflow from resume authoring to export
-
-This makes it a strong demonstration of GenAI design, product thinking, and engineering discipline without becoming over-engineered.
